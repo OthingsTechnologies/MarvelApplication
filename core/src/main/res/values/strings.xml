@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">core</string>
+    <string name="marvel_public_api_key">3b6240e645177930553d111a0cf0db97</string>
+    <string name="marvel_private_api_key">3563f3357f4b983583fcd0f6d4582a893f93717c</string>
+</resources>

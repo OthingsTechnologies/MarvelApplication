@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Developer Test</string>
+    <string name="retry_again">Retry again</string>
+    <string name="no_description">No description</string>
+</resources>
